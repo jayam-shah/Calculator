@@ -9,10 +9,6 @@ A simple  calculator built with HTML, CSS, and JavaScript. This project performs
 - Real-time screen update as you click buttons
 - Clear and delete functionality
 
-## 🚀 Demo
-
-![Calculator Screenshot](Final_UI.png) 
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -37,5 +33,10 @@ Calculator/
 
 That’s it! No installation required.
 
-📄 License
+## 🚀 Demo
+ 
+<img width="1455" alt="Final_UI" src="https://github.com/user-attachments/assets/16b22d61-24b2-483f-80d0-e99c77ef53c8" />
+
+## 📄 License
+
 This project is open-source and free to use.
