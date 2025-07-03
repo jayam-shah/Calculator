@@ -11,7 +11,7 @@ A simple  calculator built with HTML, CSS, and JavaScript. This project performs
 
 ## 🚀 Demo
 
-![Calculator Screenshot](screenshot.png) 
+![Calculator Screenshot](Final U.I. .png) 
 
 ## 🛠️ Technologies Used
 
